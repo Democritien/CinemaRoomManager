@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CinemaTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-21T11:40:04" hostname="WIN-IU9NNVEE25L" time="1.12">
+<testsuite name="CinemaTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-22T17:09:53" hostname="PREDATOR" time="1.374">
   <properties/>
-  <testcase name="start" classname="CinemaTests" time="1.12"/>
+  <testcase name="start" classname="CinemaTests" time="1.374"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Enter the number of rows:
@@ -14,8 +14,8 @@ Enter the number of seats in each row:
 3. Statistics
 0. Exit
 
-> 0
 
+> 0
 ?[1;31m
 Start test 2?[0m
 Enter the number of rows:
@@ -28,8 +28,8 @@ Enter the number of seats in each row:
 3. Statistics
 0. Exit
 
-> 1
 
+> 1
 Cinema:
   1 2 3 4 5 6 7 8
 1 S S S S S S S S
@@ -45,6 +45,7 @@ Cinema:
 3. Statistics
 0. Exit
 
+
 Enter the number of rows:
 > 2
 Enter the number of seats in each row:
@@ -55,8 +56,8 @@ Enter the number of seats in each row:
 3. Statistics
 0. Exit
 
-> 1
 
+> 1
 Cinema:
   1 2
 1 S S
@@ -67,6 +68,7 @@ Cinema:
 3. Statistics
 0. Exit
 
+
 Enter the number of rows:
 > 9
 Enter the number of seats in each row:
@@ -77,8 +79,8 @@ Enter the number of seats in each row:
 3. Statistics
 0. Exit
 
-> 1
 
+> 1
 Cinema:
   1 2 3 4 5 6 7 8 9
 1 S S S S S S S S S
@@ -96,8 +98,8 @@ Cinema:
 3. Statistics
 0. Exit
 
-> 0
 
+> 0
 ?[1;31m
 Start test 3?[0m
 Enter the number of rows:
@@ -110,8 +112,8 @@ Enter the number of seats in each row:
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 2
@@ -125,8 +127,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 1
 
+> 1
 Cinema:
   1 2 3 4 5 6 7 8
 1 S S S S S S S S
@@ -142,8 +144,8 @@ Cinema:
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 3
@@ -157,8 +159,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 1
 
+> 1
 Cinema:
   1 2 3 4 5 6 7 8
 1 S S S S S S S S
@@ -174,6 +176,7 @@ Cinema:
 3. Statistics
 0. Exit
 
+
 ?[1;31m
 Start test 4?[0m
 Enter the number of rows:
@@ -186,8 +189,8 @@ Enter the number of seats in each row:
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 1
@@ -201,8 +204,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 4
@@ -216,8 +219,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 1
 
+> 1
 Cinema:
   1 2 3 4 5 6 7 8 9
 1 B S S S S S S S S
@@ -235,8 +238,8 @@ Cinema:
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 5
@@ -250,8 +253,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 1
 
+> 1
 Cinema:
   1 2 3 4 5 6 7 8 9
 1 B S S S S S S S S
@@ -269,8 +272,8 @@ Cinema:
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 6
@@ -284,8 +287,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 1
 
+> 1
 Cinema:
   1 2 3 4 5 6 7 8 9
 1 B S S S S S S S S
@@ -303,6 +306,7 @@ Cinema:
 3. Statistics
 0. Exit
 
+
 ?[1;31m
 Start test 5?[0m
 Enter the number of rows:
@@ -315,8 +319,8 @@ Enter the number of seats in each row:
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 1
@@ -330,8 +334,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 1
@@ -352,8 +356,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 9
@@ -374,8 +378,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 10
@@ -410,6 +414,7 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
+
 ?[1;31m
 Start test 6?[0m
 Enter the number of rows:
@@ -422,11 +427,11 @@ Enter the number of seats in each row:
 3. Statistics
 0. Exit
 
-> 3
 
-Number of purchased tickets: 0 
-Percentage: 0.00% 
-Current income: $0 
+> 3
+Number of purchased tickets: 0
+Percentage: 0.00%
+Current income: $0
 Total income: $720
 
 1. Show the seats
@@ -434,8 +439,8 @@ Total income: $720
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 1
@@ -449,8 +454,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 1
@@ -464,8 +469,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 1
@@ -479,11 +484,11 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 3
 
-Number of purchased tickets: 3 
-Percentage: 3.70% 
-Current income: $30 
+> 3
+Number of purchased tickets: 3
+Percentage: 3.70%
+Current income: $30
 Total income: $720
 
 1. Show the seats
@@ -491,8 +496,8 @@ Total income: $720
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 9
@@ -506,8 +511,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 9
@@ -521,8 +526,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 9
@@ -536,11 +541,11 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 3
 
-Number of purchased tickets: 6 
-Percentage: 7.41% 
-Current income: $54 
+> 3
+Number of purchased tickets: 6
+Percentage: 7.41%
+Current income: $54
 Total income: $720
 
 1. Show the seats
@@ -548,8 +553,8 @@ Total income: $720
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 2
@@ -563,8 +568,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 2
@@ -578,8 +583,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 2
@@ -593,8 +598,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 2
@@ -608,8 +613,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 2
@@ -623,8 +628,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 2
@@ -638,8 +643,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 2
@@ -653,8 +658,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 2
@@ -668,8 +673,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 2
@@ -683,8 +688,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 3
@@ -698,8 +703,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 3
@@ -713,8 +718,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 3
@@ -728,8 +733,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 3
@@ -743,8 +748,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 3
@@ -758,8 +763,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 3
@@ -773,8 +778,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 3
@@ -788,8 +793,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 3
@@ -803,8 +808,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 3
@@ -818,8 +823,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 4
@@ -833,8 +838,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 4
@@ -848,8 +853,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 4
@@ -863,8 +868,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 4
@@ -878,8 +883,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 4
@@ -893,8 +898,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 4
@@ -908,8 +913,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 4
@@ -923,8 +928,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 4
@@ -938,8 +943,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 4
@@ -953,8 +958,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 5
@@ -968,8 +973,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 5
@@ -983,8 +988,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 5
@@ -998,8 +1003,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 5
@@ -1013,8 +1018,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 5
@@ -1028,8 +1033,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 5
@@ -1043,8 +1048,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 5
@@ -1058,8 +1063,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 5
@@ -1073,8 +1078,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 5
@@ -1088,8 +1093,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 6
@@ -1103,8 +1108,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 6
@@ -1118,8 +1123,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 6
@@ -1133,8 +1138,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 6
@@ -1148,8 +1153,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 6
@@ -1163,8 +1168,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 6
@@ -1178,8 +1183,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 6
@@ -1193,8 +1198,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 6
@@ -1208,8 +1213,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 6
@@ -1223,8 +1228,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 7
@@ -1238,8 +1243,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 7
@@ -1253,8 +1258,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 7
@@ -1268,8 +1273,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 7
@@ -1283,8 +1288,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 7
@@ -1298,8 +1303,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 7
@@ -1313,8 +1318,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 7
@@ -1328,8 +1333,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 7
@@ -1343,8 +1348,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 7
@@ -1358,8 +1363,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 8
@@ -1373,8 +1378,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 8
@@ -1388,8 +1393,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 8
@@ -1403,8 +1408,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 8
@@ -1418,8 +1423,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 8
@@ -1433,8 +1438,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 8
@@ -1448,8 +1453,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 8
@@ -1463,8 +1468,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 8
@@ -1478,8 +1483,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 8
@@ -1493,11 +1498,11 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 3
 
-Number of purchased tickets: 69 
-Percentage: 85.19% 
-Current income: $612 
+> 3
+Number of purchased tickets: 69
+Percentage: 85.19%
+Current income: $612
 Total income: $720
 
 1. Show the seats
@@ -1505,8 +1510,8 @@ Total income: $720
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 1
@@ -1520,8 +1525,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 1
@@ -1535,8 +1540,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 1
@@ -1550,8 +1555,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 1
@@ -1565,8 +1570,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 1
@@ -1580,8 +1585,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 1
@@ -1595,8 +1600,8 @@ Ticket price: $10
 3. Statistics
 0. Exit
 
-> 1
 
+> 1
 Cinema:
   1 2 3 4 5 6 7 8 9
 1 B B B B B B B B B
@@ -1614,8 +1619,8 @@ Cinema:
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 9
@@ -1629,8 +1634,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 9
@@ -1644,8 +1649,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 9
@@ -1659,8 +1664,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 9
@@ -1674,8 +1679,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 9
@@ -1689,8 +1694,8 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 2
 
+> 2
 
 Enter a row number:
 > 9
@@ -1704,17 +1709,18 @@ Ticket price: $8
 3. Statistics
 0. Exit
 
-> 3
 
-Number of purchased tickets: 81 
-Percentage: 100.00% 
-Current income: $720 
+> 3
+Number of purchased tickets: 81
+Percentage: 100.00%
+Current income: $720
 Total income: $720
 
 1. Show the seats
 2. Buy a ticket
 3. Statistics
 0. Exit
+
 
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
